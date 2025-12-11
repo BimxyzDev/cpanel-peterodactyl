@@ -15,7 +15,7 @@ export default function handler(req, res) {
     github: {
       token: safeToken,     // token aman sudah digabung
       owner: "BimxyzDev",
-      repo: "Reseller-panel-bimxyzoffc",
+      repo: "cpanel-peterodactyl",
 
       userFile: "api/user.js",   // file akun user
       panelFile: "api/panel.js"  // file pengaturan panel
